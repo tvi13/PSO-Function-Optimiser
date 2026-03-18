@@ -1,4 +1,4 @@
-**Particle Swarm Optimization (PSO) Dashboard**
+## Particle Swarm Optimization (PSO) Dashboard
 
 This project is an interactive implementation of the **Particle Swarm Optimization (PSO)** algorithm.
 
@@ -16,7 +16,7 @@ This project is an interactive implementation of the **Particle Swarm Optimizati
 2.  **Power Systems**: Economic Dispatch problems to minimize fuel costs in power plants.
 3.  **Financial Modeling**: Portfolio optimization to minimize risk for a given expected return.
 
-## 🛠️ Installation
+## Installation
 1. Clone the repo: `git clone https://github.com/tvi13/PSO-Function-Optimiser`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
